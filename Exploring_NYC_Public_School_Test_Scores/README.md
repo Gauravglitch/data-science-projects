@@ -1,6 +1,3 @@
-# Let's generate the markdown content and save it to a .md file
-
-readme_content = """
 # Exploring NYC Public Schools Test Result Scores
 
 ## Project Overview
