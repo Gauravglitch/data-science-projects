@@ -1,6 +1,6 @@
 # Los Angeles Crime Data Analysis  
 
-![Los Angeles skyline](la_skyline.jpg)
+![Los Angeles skyline](media/la_skyline.jpg)
 
 ## 📌 Project Overview  
 Los Angeles, California 😎 — the City of Angels, known for Hollywood, palm trees, and sunshine.  
