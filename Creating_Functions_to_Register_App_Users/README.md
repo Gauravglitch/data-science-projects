@@ -1,6 +1,5 @@
-
 # Creating Functions to Register App Users
-
+![register button](media/img.jpg)
 ## Overview
 This project implements a user registration system for a mobile app that validates user input before account creation. It leverages helper functions to ensure data quality and security.
 
